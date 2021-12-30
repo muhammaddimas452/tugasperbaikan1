@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Arsha Bootstrap Template - Index</title>
+  <title>SMK Madinatul Quran</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
+  <link href="img/logomq3.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -34,25 +34,31 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style>
+    #hero {
+      background-color: #00E676;
+    }
+    
+  </style>
 </head>
 
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
+  <header id="header" class="fixed-top bg-success">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="img-fluid mw-100" alt=""></a></h1>
+      <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="h-100 w-100" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
-        <ul>
+        <ul class="">
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
           <li><a class="nav-link scrollto" href="#services">Program pendidikan</a></li>
           <li><a class="nav-link scrollto" href="#fasilitas">Fasilitas</a></li>
-          <li><a class="nav-link   scrollto" href="#portfolio">Galery</a></li>
+          <li><a class="nav-link scrollto" href="#portfolio">Galery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
@@ -73,8 +79,8 @@
           <h5 class="text-white mt-4">Sekolah Menengah Kejuruan MADINATULQURAN atau SMK MQ adalah salah satu sekolah di Kecamatan Jonggol Kabupaten Bogor, Jawa Barat yang beroperasi mulai tahun 2015 dan sudah terakreditasi dari BANSM Kemendikbud.
           </h5>
           <div class="d-flex justify-content-center justify-content-lg-start mt-5">
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
-            <a href="https://youtu.be/5BZwEZSdoVI" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            <a href="#about" class="btn-get-started scrollto bg-success">Get Started</a>
+            <a href="https://youtu.be/5BZwEZSdoVI" class="btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -106,7 +112,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Tentang Kami</h2>
+          <h2 class="text-success">Tentang Kami</h2>
         </div>
 
         <div class="row content">
@@ -131,13 +137,13 @@
         <div class="row">
           <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
             <div class="content">
-              <h3><strong>VISI</strong></h3>
+              <h3 class="text-success"><strong>VISI</strong></h3>
               <p class="text-dark">
                 Terwujudnya SMK Berbasis pesantren dengan lulusan yang memiliki kompetensi internasional, berakhlak mulia, berkarakter, terampil dan menjunjung tinggi nilai-nilai budaya dan bangsa berdasarkan pemahaman ahlussunnah waljamaah.
               </p>
             </div>
             <div class="content">
-              <h3><strong>MISI</strong></h3>
+              <h3 class="text-success"><strong>MISI</strong></h3>
               <ol>
                 <li> Menerapkan sistem penjaminan mutu internal untuk mendorong penjaminan mutu sekolah melalui MBS.</li>
                 <li> Meningkatkan mutu lulusan melalui penerapan multi kompetensi.</li>
@@ -163,7 +169,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Program Pendidikan</h2>
+          <h2 class="text-success">Program Pendidikan</h2>
         </div>
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
@@ -216,34 +222,69 @@
     </section><!-- End Services Section -->
 
     <!-- Fasilitas Section -->
-    <section id="fasilitas" class="why-us section-bg">
-      <div class="container-fluid" data-aos="fade-up">
-        <div class="row">
-          <div class="">
-            <div class="content">
-              <h1 class="text-dark"><strong>Fasilitas :</strong></h1>
-              <h3><ol class="text-dark"><strong>
-                <li> Masjid</li>
-                <li> Saung Belajar</li>
-                <li> Kelas AC</li>
-                <li> Kantin</li>
-                <li> Lapangan Olahraga</li>
-                <li> Wifi</li>
-                <li> Asrama</li>
-              </strong></ol></h3>
+    <main id="main">
+
+      <!-- ======= Cliens Section ======= -->
+      <section id="cliens" class="cliens section-bg ">
+        <div class="container">
+          <div class="section-title">
+            <h2 class="text-success">Fasilitas</h2>
+          </div>
+          <div class="row justify-content-center" data-aos="zoom-in">
+  
+            <div class="col-lg-2 col-md-4 col- d-flex align-items-center justify-content-center">
+              <img src="img/asrama.svg" class="img-fluid" alt="">
+              <h4>Asrama</h4>
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/school.svg" class="img-fluid" alt="">
+              <h4 class="">Sekolah</h4>
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/masjid.svg" class="img-fluid" alt="">
+              <h4>Masjid</h4>
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/lapangan.svg" class="img-fluid" alt="">
+              <h4>Lapangan</h4>
             </div>
           </div>
-        </div>
+          <div class="row justify-content-center mt-5" data-aos="zoom-in">
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/saung.svg" class="img-fluid" alt="">
+              <h4>Gazebo</h4>
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/wifi.svg" class="img-fluid" alt="">
+              <h4>Wifi</h4>
+            </div>
 
-      </div>
-    </section><!-- End Fasilitas Section -->
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/AC.svg" class="img-fluid" alt="">
+              <h4>AC</h4>
+            </div>
+  
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="img/multimedia.svg" class="img-fluid" alt="">
+              <h4>Multimedia</h4>
+            </div>
+  
+          </div>
+  
+        </div>
+      </section><!-- End Cliens Section -->
+  
   
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Galery</h2>
+          <h2 class="text-success">Galery</h2>
         </div>
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
@@ -311,7 +352,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2 class="text-success">Contact</h2>
         </div>
 
         <div class="row">
@@ -366,7 +407,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button class="bg-success" type="submit">Send Message</button></div>
             </form>
           </div>
 
@@ -378,11 +419,11 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer">
+  <footer id="footer" class="bg-success">
 
     
 
-    <div class="container footer-bottom clearfix">
+    <div class="container footer-bottom clearfix bg-success">
       <div class="copyright">
         &copy; Copyright <strong><span>SMK MADINATUL QUR'AN</span></strong>. All Rights Reserved
       </div>
