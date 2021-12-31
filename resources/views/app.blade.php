@@ -56,7 +56,7 @@
   <header id="header" class="bg-success">
     <div class="container d-flex align-items-center bg-success">
 
-      <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="h-100 w-100" alt=""></a></h1>
+      <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="img-fluid mw-10" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -78,7 +78,6 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
-
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
@@ -108,7 +107,7 @@
         <div class="row" data-aos="zoom-in">
 
           <div class="d-flex align-items-center justify-content-center">
-            <img src="img/clients/client-7.png" class="img-fluid w-50" alt="">
+            <img src="img/clients/client-7.png" class="img-fluid w-75" alt="">
           </div>
         </div>
 
