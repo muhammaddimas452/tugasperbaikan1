@@ -232,43 +232,43 @@
           </div>
           <div class="row justify-content-center" data-aos="zoom-in">
   
-            <div class="col-lg-2 col-md-4 col- d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col- d-flex align-items-center justify-content-center">
               <img src="img/asrama.svg" class="img-fluid" alt="">
               <h4>Asrama</h4>
             </div>
   
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/school.svg" class="img-fluid" alt="">
               <h4 class="">Sekolah</h4>
             </div>
   
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/masjid.svg" class="img-fluid" alt="">
               <h4>Masjid</h4>
             </div>
   
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/lapangan.svg" class="img-fluid" alt="">
               <h4>Lapangan</h4>
             </div>
           </div>
           <div class="row justify-content-center mt-5" data-aos="zoom-in">
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/saung.svg" class="img-fluid" alt="">
               <h4>Gazebo</h4>
             </div>
   
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/wifi.svg" class="img-fluid" alt="">
               <h4>Wifi</h4>
             </div>
 
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/AC.svg" class="img-fluid" alt="">
               <h4>AC</h4>
             </div>
   
-            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/multimedia.svg" class="img-fluid" alt="">
               <h4>Multimedia</h4>
             </div>
