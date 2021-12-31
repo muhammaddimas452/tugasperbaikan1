@@ -39,21 +39,22 @@
       background-color: #00E676;
     }
     
+    
   </style>
 </head>
 
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top bg-success">
-    <div class="container d-flex align-items-center">
+  <header id="header" class="bg-success">
+    <div class="container d-flex align-items-center bg-success">
 
       <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="h-100 w-100" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar">
-        <ul class="">
+        <ul class="text-white">
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
           <li><a class="nav-link scrollto" href="#services">Program pendidikan</a></li>
@@ -78,7 +79,7 @@
           <h1>Boarding School</h1>
           <h5 class="text-white mt-4">Sekolah Menengah Kejuruan MADINATULQURAN atau SMK MQ adalah salah satu sekolah di Kecamatan Jonggol Kabupaten Bogor, Jawa Barat yang beroperasi mulai tahun 2015 dan sudah terakreditasi dari BANSM Kemendikbud.
           </h5>
-          <div class="d-flex justify-content-center justify-content-lg-start mt-5">
+          <div class="d-flex justify-content-center justify-content-md-start mt-5">
             <a href="#about" class="btn-get-started scrollto bg-success">Get Started</a>
             <a href="https://youtu.be/5BZwEZSdoVI" class="btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
@@ -232,7 +233,7 @@
           </div>
           <div class="row justify-content-center" data-aos="zoom-in">
   
-            <div class="col-lg-2 col-md-2 col- d-flex align-items-center justify-content-center">
+            <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/asrama.svg" class="img-fluid" alt="">
               <h4>Asrama</h4>
             </div>
