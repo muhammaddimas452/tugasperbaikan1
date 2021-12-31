@@ -79,7 +79,7 @@
           <h1>Boarding School</h1>
           <h5 class="text-white mt-4">Sekolah Menengah Kejuruan MADINATULQURAN atau SMK MQ adalah salah satu sekolah di Kecamatan Jonggol Kabupaten Bogor, Jawa Barat yang beroperasi mulai tahun 2015 dan sudah terakreditasi dari BANSM Kemendikbud.
           </h5>
-          <div class="d-flex justify-content-center justify-content-md-start mt-5">
+          <div class="d-flex justify-content-center justify-content-md-start">
             <a href="#about" class="btn-get-started scrollto bg-success">Get Started</a>
             <a href="https://youtu.be/5BZwEZSdoVI" class="btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
@@ -227,7 +227,7 @@
 
       <!-- ======= Cliens Section ======= -->
       <section id="cliens" class="cliens section-bg ">
-        <div class="container">
+        <div class="container col-md-2">
           <div class="section-title">
             <h2 class="text-success">Fasilitas</h2>
           </div>
