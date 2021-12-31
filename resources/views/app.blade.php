@@ -227,7 +227,7 @@
 
       <!-- ======= Cliens Section ======= -->
       <section id="cliens" class="cliens section-bg ">
-        <div class="container col-md-2">
+        <div class="container">
           <div class="section-title">
             <h2 class="text-success">Fasilitas</h2>
           </div>
