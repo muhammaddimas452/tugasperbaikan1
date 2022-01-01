@@ -56,7 +56,7 @@
   <header id="header" class="bg-success">
     <div class="container d-flex align-items-center bg-success">
 
-      <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="img-fluid mw-10" alt=""></a></h1>
+      <h1 class="logo me-auto"><a class="nav-link scrollto" href="#hero"><img src="img/logomq2.png" class="" alt=""></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -272,7 +272,7 @@
 
             <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
               <img src="img/AC.svg" class="img-fluid" alt="">
-              <h4>AC</h4>
+              <h4>Ruang AC</h4>
             </div>
   
             <div class="col-lg-2 col-md-2 col-6 d-flex align-items-center justify-content-center">
