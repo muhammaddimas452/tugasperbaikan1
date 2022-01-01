@@ -291,7 +291,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2 class="text-success">Galery</h2>
+          <h2 class="text-success">Galeri</h2>
         </div>
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
@@ -359,7 +359,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2 class="text-success">Contact</h2>
+          <h2 class="text-success">Kontak</h2>
         </div>
 
         <div class="row">
@@ -368,7 +368,7 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
+                <h4>Lokasi:</h4>
                 <p>Kp.Kebon Kelapa, RT.02/RW.011, Singasari, Kec. Jonggol, Bogor, Jawa Barat 16830</p>
               </div>
 
@@ -380,7 +380,7 @@
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4>Telepon:</h4>
                 <p>085 888 222 457 (PSB)</p>
                 <p>08126900 457 (Hotline)</p>
               </div>
@@ -393,20 +393,20 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
+                  <label for="name">Nama</label>
                   <input type="text" name="name" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
+                  <label for="name">Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
               <div class="form-group">
-                <label for="name">Subject</label>
+                <label for="name">Judul</label>
                 <input type="text" class="form-control" name="subject" id="subject" required>
               </div>
               <div class="form-group">
-                <label for="name">Message</label>
+                <label for="name">Pesan</label>
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
               <div class="my-3">
