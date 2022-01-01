@@ -66,8 +66,8 @@
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
           <li><a class="nav-link scrollto" href="#services">Program pendidikan</a></li>
           <li><a class="nav-link scrollto" href="#fasilitas">Fasilitas</a></li>
-          <li><a class="nav-link scrollto" href="#portfolio">Galery</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="#portfolio">Galeri</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
